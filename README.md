@@ -43,6 +43,6 @@ React, JavaScript, HTML, CSS, Bootstrap, Git, GitHub, Node.js, Express.js,
 
 ## Autores
 
-- [@Anderson Azabache Granda](https://www.github.com/octokatherine)
+- [@Anderson Azabache Granda]([https://www.github.com/octokatherine](https://github.com/vazabacheg/))
 
 #### Get all items
