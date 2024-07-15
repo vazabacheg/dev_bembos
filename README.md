@@ -6,7 +6,7 @@
 1. [Descripción](#Project-final-Bembos)
 2. [Figma](#Figma-Prototipo)
 3. [Estructura](#Estructura-de-Proyecto)
-4. [Tecnologias](#Herramientas-a-Desarrollar)
+4. [Tecnologias](#Herramientas)
 5. [Desarrollo](#Desarrollo)
 6. [Autor](#Autor)
 
@@ -43,7 +43,7 @@ bembos/
 ├── README.md
 └── ...
 
-## 🛠 Herramientas a Desarrollar
+## 🛠 Herramientas
 
 React, JavaScript, HTML, CSS, Git, GitHub,
 
