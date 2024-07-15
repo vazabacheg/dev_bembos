@@ -45,7 +45,7 @@ bembos/
 
 ## 🛠 Herramientas a Desarrollar
 
-React, JavaScript, HTML, CSS, Bootstrap, Git, GitHub, Node.js, Express.js,
+React, JavaScript, HTML, CSS, Git, GitHub,
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
